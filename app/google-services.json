@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693711435342",
+    "project_id": "penjahit-9f61a",
+    "storage_bucket": "penjahit-9f61a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693711435342:android:e0b5dee3e717126448b51f",
+        "android_client_info": {
+          "package_name": "com.example.penjahit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693711435342-hmqutdfromgdboveu83ar6178921o6p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjyQPxKVlaQ5l4E8peqIobfU5OwPCUPJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693711435342-hmqutdfromgdboveu83ar6178921o6p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
